@@ -71,6 +71,18 @@ $a->property = 12345;
 var_dump($a);
 ```
 
+# Networking
+
+## HTTP
+
+### 1. What is a "HTTP"? Is a binary or plain protocol? What is a difference from "HTTP" AND "HTTPS"?
+
+### 2. What is a "gzip"?
+
+### 3. What is a "ETag" mechanism?
+
+### 4. What is new HTTP 2.0?
+
 # Internal
 
 ### 1. What is a "zval"? What is a "zend_value"? What is a union for structure?
