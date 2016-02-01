@@ -41,7 +41,7 @@ Inverview questions for PHP Backend Developer
 
 # Internal
 
-### 1. What is a "zval"? What is a "zend_value"? What is a structure union?
+### 1. What is a "zval"? What is a "zend_value"? What is a union for structure?
 
 ### 2. Explain how is it possible "casting variables"? Write it down an example?
 
@@ -58,3 +58,11 @@ Inverview questions for PHP Backend Developer
 ### 3. How to clear 2 database by redis-cli? And how to clear all databases?
 
 ### 4. How to get first 10 element(s) from list?
+
+# Databases
+
+### 1. What is a partitioning?
+
+# PostgreSQL
+
+### 1. What is a "hstore" type? For example We are having users table with meta column (hstore type) - How to set value in meta column?
