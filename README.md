@@ -49,3 +49,12 @@ Inverview questions for PHP Backend Developer
 
 ### 3. Arrays? HashTable? What is a complexity of getting element from HashTable? How iteration is working in HashTable?
 
+# Redis
+
+### 1. Is it a persistent db?
+
+### 2. Describe all supported types.
+
+### 3. How to clear 2 database by redis-cli? And how to clear all databases?
+
+### 4. How to get first 10 element(s) from list?
