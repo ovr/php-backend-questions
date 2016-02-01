@@ -19,6 +19,8 @@ Inverview questions for PHP Backend Developer
 
 #### 8. What is dependency injection? Why is used? How does it relate to Composition?
 
+#### 9. What is a "ZTS"? Does PHP support thread(s) in core?
+
 # OOP
 
 ### 1. What doest it mean OOP?
@@ -35,6 +37,15 @@ Inverview questions for PHP Backend Developer
 
 ### 7. Why interfaces is needed?
 
+### 8. What is a "trait"? Why is it needed?
+
 # Internal
 
-### 1. What is a "zval"?
+### 1. What is a "zval"? What is a "zend_value"? What is a structure union?
+
+### 2. Explain how is it possible "casting variables"? Write it down an example?
+
+### 3. How is it working unary plus and unary minus?
+
+### 3. Arrays? HashTable? What is a complexity of getting element from HashTable? How iteration is working in HashTable?
+
