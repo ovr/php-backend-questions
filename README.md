@@ -15,13 +15,15 @@ Inverview questions for PHP Backend Developer
 
 #### 6. When __construct and __deconstruct will be called?
 
-#### 7. What does it mean "GC"?
+#### 7. What does it mean “$a = &$b“?, and what kind of operator is it?
 
-#### 8. What is dependency injection? Why is used? How does it relate to Composition?
+#### 8. What does it mean "GC"?
 
-#### 9. What is a "PDO" extension?
+#### 9. What is dependency injection? Why is used? How does it relate to Composition?
 
-#### 10. What is a "ZTS"? Does PHP support thread(s) in core?
+#### 10. What is a "PDO" extension?
+
+#### 11. What is a "ZTS"? Does PHP support thread(s) in core?
 
 # OOP
 
