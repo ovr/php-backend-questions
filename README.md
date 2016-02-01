@@ -39,6 +39,26 @@ Inverview questions for PHP Backend Developer
 
 ### 8. What is a "trait"? Why is it needed?
 
+# Code Snippets
+
+### 1. What does it output?
+
+```php
+class A extends stdClass {
+}
+
+$a = new A();
+$a->property = 1;
+
+$b = $a;
+$a->property = 2;
+
+var_dump($a);
+var_dump($b);
+```
+
+Is it a same objects? How to get hash of objects?
+
 # Internal
 
 ### 1. What is a "zval"? What is a "zend_value"? What is a union for structure?
