@@ -105,8 +105,12 @@ var_dump($a);
 
 # Databases
 
+## Main questions
+
 ### 1. What is a partitioning?
 
-# PostgreSQL
+## PostgreSQL
 
 ### 1. What is a "hstore" type? For example We are having users table with meta column (hstore type) - How to set value in meta column?
+
+### 2. What is a "json" type? What is a "jsonb" type? What is a difference between this types? How to cast any type to json?
