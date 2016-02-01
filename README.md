@@ -19,7 +19,9 @@ Inverview questions for PHP Backend Developer
 
 #### 8. What is dependency injection? Why is used? How does it relate to Composition?
 
-#### 9. What is a "ZTS"? Does PHP support thread(s) in core?
+#### 9. What is a "PDO" extension?
+
+#### 10. What is a "ZTS"? Does PHP support thread(s) in core?
 
 # OOP
 
@@ -58,6 +60,14 @@ var_dump($b);
 ```
 
 Is it a same objects? How to get hash of objects?
+
+### 2. What will be caused?
+
+```php
+$a = null;
+$a->property = 12345;
+var_dump($a);
+```
 
 # Internal
 
