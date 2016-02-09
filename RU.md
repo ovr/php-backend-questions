@@ -1,15 +1,15 @@
-Inverview questions for PHP Backend Developer [RU](./RU.md)
-===========================================================
+Inverview questions for PHP Backend Developer [EN](./README.md)
+===============================================================
 
 # Simple
 
-#### 1. Describe all PHP's types.
+#### 1. Перечислите все существующие типы в PHP.
 
-#### 2. What is a "callable"? Write all allowed values for it.
+#### 2. Что такое "callable"? Напишите пример допустимых значений для этого типа.
 
-#### 3. Write down all supported cycles structures
+#### 3. Какие типы циклов существуют в PHP?
 
-#### 4. Write all magic methods.
+#### 4. Перечислите все магические методы и расскажите в кратце о каждом он них.
 
 #### 5. What is a Closure?
 
