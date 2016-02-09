@@ -1,7 +1,7 @@
 Inverview questions for PHP Backend Developer [RU](./RU.md)
 ===========================================================
 
-# Simple
+# Общие о PHP
 
 #### 1. Describe all PHP's types.
 
@@ -11,21 +11,21 @@ Inverview questions for PHP Backend Developer [RU](./RU.md)
 
 #### 4. Write all magic methods.
 
-#### 5. What is a Closure?
+#### 5. Что такое Closure? И как работает?
 
-#### 6. When __construct and __deconstruct will be called?
+#### 6. Когда методы __construct и __deconstruct будут запущены?
 
-#### 7. What does it mean “$a = &$b“?, and what kind of operator is it?
+#### 7. Что значит “$a = &$b“?, и как работает этот оператор?
 
-#### 8. What does it mean "GC"?
+#### 8. Что такое "GC"?
 
-#### 9. What is dependency injection? Why is used? How does it relate to Composition?
+#### 9. Что такое dependency injection? Зачем это нужно? Как это относиться к Composition?
 
-#### 10. What is a "PDO" extension?
+#### 10. Что за рассширение "PDO"?
 
-#### 11. What is a "ZTS"? Does PHP support thread(s) in core?
+#### 11. Что такое "ZTS"? Поддерживает ли PHP многопоточность из нутри (в ядре)?
 
-# OOP
+# ООП
 
 ### 1. What doest it mean OOP?
 
